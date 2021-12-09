@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Stock-Client/Stock-Client.iml" filepath="$PROJECT_DIR$/Stock-Client/Stock-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stock-UI/Stock-UI.iml" filepath="$PROJECT_DIR$/Stock-UI/Stock-UI.iml" />
+    </modules>
+  </component>
+</project>
